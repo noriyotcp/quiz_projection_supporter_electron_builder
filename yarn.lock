@@ -1372,10 +1372,10 @@ bootstrap-honoka@^4.3.1:
     jquery "1.9.1 - 3"
     popper.js "^1.14.7"
 
-bootstrap-vue@^2.0.3:
-  version "2.0.3"
-  resolved "https://registry.yarnpkg.com/bootstrap-vue/-/bootstrap-vue-2.0.3.tgz#20d62b010f314a19e1218563c1fe8aa95eabff81"
-  integrity sha512-foI+NRs54lmjpneuwgXrmoOVDg8419ai9IwZNQq29Mnfmfui66UKS89GJnA4RjXJPjFbrIgjnjniaeqF/GOWBQ==
+bootstrap-vue@^2.0.4:
+  version "2.0.4"
+  resolved "https://registry.yarnpkg.com/bootstrap-vue/-/bootstrap-vue-2.0.4.tgz#9bf99754a22acece72e02adda3c7965b818ae2bc"
+  integrity sha512-/5WXa3ir5uajcs7ze7jz7QXpYuJGWHjvJ8biMq0+e0IIIxw2jSdh4LsiFKD7C7qtgKre28hhXOfx79RmZX4wcQ==
   dependencies:
     "@nuxt/opencollective" "^0.3.0"
     bootstrap ">=4.3.1 <5.0.0"
