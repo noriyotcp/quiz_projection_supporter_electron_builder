@@ -21,7 +21,5 @@ jobs:
       run: yarn install
     - name: Run lint
       run: yarn lint
-    - name: Run build
-      run: yarn electron:build
       env:
         CI: true
