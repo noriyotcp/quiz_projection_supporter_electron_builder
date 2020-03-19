@@ -19,7 +19,7 @@
     "fs-extra": "^8.1.0",
     "vue": "^2.6.11",
     "vue-router": "^3.1.6",
-    "xlsx-populate": "^1.20.1"
+    "xlsx-populate": "^1.21.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-eslint": "^4.2.2",
