@@ -22,7 +22,7 @@
     "xlsx-populate": "^1.21.0"
   },
   "devDependencies": {
-    "@vue/cli-plugin-eslint": "^4.2.2",
+    "@vue/cli-plugin-eslint": "^4.2.3",
     "@vue/cli-plugin-unit-jest": "^4.2.3",
     "@vue/cli-service": "^4.2.3",
     "@vue/eslint-config-prettier": "^6.0.0",
