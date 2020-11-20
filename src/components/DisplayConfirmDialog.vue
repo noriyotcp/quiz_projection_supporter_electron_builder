@@ -23,7 +23,7 @@ export default {
   },
   methods: {
     onOkClicked() {
-      this.$emit("onOkClicked");
+      this.$emit("on-ok-clicked");
     }
   }
 };
