@@ -15,7 +15,7 @@ export default {
     }
   },
   onOkClicked() {
-    this.$emit("on-ok-clicked");
+    this.$emit("onOkClicked");
   }
 };
 </script>
