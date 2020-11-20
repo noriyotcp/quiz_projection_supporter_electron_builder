@@ -34,7 +34,7 @@ export default {
   methods: {
     onOkClicked() {
       if (this.file !== "") {
-        this.$emit("on-ok-clicked", { path: this.filePath, pass: this.pass });
+        this.$emit("onOkClicked", { path: this.filePath, pass: this.pass });
         this.filePath = "";
         this.pass = "";
       }
