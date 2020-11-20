@@ -26,7 +26,7 @@ export default {
   methods: {
     onOkClicked() {
       if (this.newQId !== "") {
-        this.$emit("onOkClicked", this.newQId);
+        this.$emit("on-ok-clicked", this.newQId);
         this.newQId = "";
       }
     }

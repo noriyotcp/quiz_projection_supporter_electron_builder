@@ -70,14 +70,14 @@ export default {
   },
   methods: {
     onSizeChanged() {
-      this.$emit("onSizeChanged", {
+      this.$emit("on-size-changed", {
         qTextFontSize: this.qTextFontSize,
         qAnswerFontSize: this.qAnswerFontSize,
         qAnotherAnswerFontSize: this.qAnotherAnswerFontSize
       });
     },
     onColorChanged() {
-      this.$emit("onColorChanged", {
+      this.$emit("on-color-changed", {
         qStringColor: this.qStringColor,
         qBackgroundColor: this.qBackgroundColor
       });
