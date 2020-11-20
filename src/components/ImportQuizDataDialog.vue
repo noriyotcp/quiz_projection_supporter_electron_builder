@@ -34,6 +34,7 @@ export default {
   methods: {
     onOkClicked() {
       if (this.file !== "") {
+        // eslint-disable-next-line
         this.$emit("onOkClicked", { path: this.filePath, pass: this.pass });
         this.filePath = "";
         this.pass = "";

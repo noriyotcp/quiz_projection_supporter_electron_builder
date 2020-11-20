@@ -70,6 +70,7 @@ export default {
   },
   methods: {
     onSizeChanged() {
+      // eslint-disable-next-line
       this.$emit("onSizeChanged", {
         qTextFontSize: this.qTextFontSize,
         qAnswerFontSize: this.qAnswerFontSize,
@@ -77,6 +78,7 @@ export default {
       });
     },
     onColorChanged() {
+      // eslint-disable-next-line
       this.$emit("onColorChanged", {
         qStringColor: this.qStringColor,
         qBackgroundColor: this.qBackgroundColor

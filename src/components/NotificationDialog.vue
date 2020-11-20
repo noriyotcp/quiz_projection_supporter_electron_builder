@@ -15,6 +15,7 @@ export default {
     }
   },
   onOkClicked() {
+    // eslint-disable-next-line
     this.$emit("onOkClicked");
   }
 };
