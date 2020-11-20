@@ -23,6 +23,7 @@ export default {
   },
   methods: {
     onOkClicked() {
+      // eslint-disable-next-line
       this.$emit("onOkClicked");
     }
   }

@@ -26,6 +26,7 @@ export default {
   methods: {
     onOkClicked() {
       if (this.newQId !== "") {
+        // eslint-disable-next-line
         this.$emit("onOkClicked", this.newQId);
         this.newQId = "";
       }
