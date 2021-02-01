@@ -16,7 +16,7 @@
   "dependencies": {
     "bootstrap-honoka": "^4.4.0",
     "bootstrap-vue": "^2.21.2",
-    "fs-extra": "^9.0.1",
+    "fs-extra": "^9.1.0",
     "vue": "^2.6.12",
     "vue-router": "^3.4.9",
     "xlsx-populate": "^1.21.0"
