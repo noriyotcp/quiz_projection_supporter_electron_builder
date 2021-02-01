@@ -18,7 +18,7 @@
     "bootstrap-vue": "^2.21.2",
     "fs-extra": "^9.0.1",
     "vue": "^2.6.12",
-    "vue-router": "^3.4.9",
+    "vue-router": "^3.5.1",
     "xlsx-populate": "^1.21.0"
   },
   "devDependencies": {
